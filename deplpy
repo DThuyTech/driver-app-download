@@ -1,0 +1,25 @@
+Please test the following features in this driver beta build:
+
+1. Authentication
+- Sign in with the provided driver test account.
+- Check validation and error messages for incorrect credentials.
+- Sign out and reopen the app to verify session behavior.
+
+2. Booking Acceptance
+- Switch between Online and Offline status.
+- Check incoming booking notifications and booking details.
+- Accept a booking and verify that the assigned trip appears correctly.
+- Check for duplicate requests or incorrect booking status.
+
+3. Trip Tracking
+- Verify the driver’s location and pickup/drop-off points on the map.
+- Test trip progress from booking acceptance through pickup and completion.
+- Check location and trip status updates when switching between apps or reconnecting to the network.
+
+4. Driver Profile
+- Check that driver and vehicle information is displayed correctly.
+- Test profile updates where available and confirm that changes remain after reopening the app.
+
+Please coordinate test bookings with the operations team.
+
+When reporting an issue, include the steps to reproduce it, expected and actual results, device model, iOS version, and screenshots or a screen recording. Do not include passwords or verification codes.
